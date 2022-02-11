@@ -42,8 +42,7 @@ body {
     width: 100%;
     height: 100vh;
 
-    background: url("imege/gorod-buduschego-3840x2160-gorod-buduschego-20320.jpg") center no-repeat;
-    background-size: cover;  
+background: url("../imege/gorod-buduschego-3840x2160-gorod-buduschego-20320.jpg") center no-repeat;    background-size: cover;  
 }
 .intro_inner {
       width: 100%;
